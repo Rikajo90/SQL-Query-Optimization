@@ -98,3 +98,6 @@ Real-world SQL performance optimization examples with detailed analysis, before/
 ⭐ **Found these optimizations helpful? Star this repo!**
 
 💬 **Questions or suggestions?** Feel free to open an issue or reach out!
+
+---
+*Last updated: December 2025*
